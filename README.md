@@ -75,7 +75,7 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ch
 - Los premios de las actividades no se pueden cambiar ni sustituir.
 - Los ganadores de los premios **DEBEN estar presentes** cuando saquemos un ganador; de lo contrario, ¡volveremos a sortear!
 - ¡Buena suerte! 🍀
-
+Espiando desde la charla...
 <!-- Footer -->
 <div id="footer">
   <p>Contacto: <a href="mailto:andreagriffiths11@github.com">GitHub</a></p>
